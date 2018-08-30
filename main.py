@@ -25,12 +25,12 @@ from collections import Counter
 from io import TextIOWrapper
 
 #
-# Kenbot, an amazing Discord bot by Kenneth
+# Kenbot, an amazing Discord bot by Kenneth and based on Red discord bot
 #
 #
 #
 
-description = "Kenbot - An amazing Discord bot by KenDev"
+description = "Kenbot - An amazing Discord bot by Kenlabs, based on Red discord bot"
 
 
 class Bot(commands.Bot):
